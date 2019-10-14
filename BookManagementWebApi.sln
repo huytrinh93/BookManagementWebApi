@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookManagementWebApi", "BookManagementWebApi\BookManagementWebApi.csproj", "{6F50FD43-F894-4145-B10C-EC44CF8DDBBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookManagementWebApi.Tests", "BookManagementWebApi.Tests\BookManagementWebApi.Tests.csproj", "{DF9CB0B4-305B-4230-858C-9F485918186E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F50FD43-F894-4145-B10C-EC44CF8DDBBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F50FD43-F894-4145-B10C-EC44CF8DDBBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F50FD43-F894-4145-B10C-EC44CF8DDBBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F50FD43-F894-4145-B10C-EC44CF8DDBBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF9CB0B4-305B-4230-858C-9F485918186E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF9CB0B4-305B-4230-858C-9F485918186E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF9CB0B4-305B-4230-858C-9F485918186E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF9CB0B4-305B-4230-858C-9F485918186E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A15C4C4D-F790-491A-9F84-48AC379501A6}
+	EndGlobalSection
+EndGlobal
